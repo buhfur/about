@@ -243,10 +243,13 @@ exclude:
   - lighthouse_results/
   - package.json
   - package-lock.json
-  - _pages/about_einstein.md
+    #- _pages/about_einstein.md
   - purgecss.config.js
   - README.md
   - readme_preview/
+  - _pages/publications.md
+  - _pages/teaching.md
+  - _pages/profiles.md
   - vendor
 keep_files:
   - CNAME
